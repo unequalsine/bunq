@@ -1,0 +1,22 @@
+{
+  "name": "bunq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unequalsine/bunq.git"
+  },
+  "author": "Jeroen Goedhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unequalsine/bunq/issues"
+  },
+  "homepage": "https://github.com/unequalsine/bunq#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
